@@ -6,7 +6,7 @@ This GitHub organization is under development and is intended to showcase select
 
 It was created so I can utilise Linear integrations with GitHub. 
 
-For additional repositories, experiments, and learning projects, see my [personal GitHub account](https://github.com/deannaspinks).
+For additional repositories, experiments, and learning projects, see my [personal GitHub account](https://github.com/deannaspinks) or ask me about the more interesting projects I've been working that aren't publicly available.
 
 ---
 
